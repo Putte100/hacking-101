@@ -1,1 +1,1 @@
-# hacking-101
+print("hello world!")
